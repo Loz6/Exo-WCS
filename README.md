@@ -1,2 +1,3 @@
 # Exo-WCS
-1er poste git, préparation à l'entrée en formation
+<h1>1er poste git</h1> 
+<p>préparation à l'entrée en formation</p>
